@@ -1,0 +1,31 @@
+ 
+
+  
+Best fit of the parametric model of the  radial profile of the dust, by Isella et al, 2016 . Obtained using the dustpy code, a python version of the  disk evolution code by Birnstiel et al,2010 
+
+
+
+Best_fit_RicciOp . From left to right, contains:
+
+[0] -->  Radial position in  arcsec
+
+[1] -->  Intensity flux  obtained in the simulation  in  [erg/cm^2/Hz/Sr]
+
+[2} --> Isella profile  in  [erg/cm^2/Hz/Sr]) 
+
+
+
+
+Best_fit_RicciOp_nonConvoluted . From left to right, contains:
+
+[0] -->  Radial position in  arcsec for the non convoluted simulation ([1])
+
+[1] -->  Intensity flux  obtained in the simulation , in  [erg/cm^2/Hz/Sr]
+
+[2] --> Radial position for the non convoluted profile ([3])
+
+[3} --> Non convoluted  profile, in [erg/cm^2/Hz/Sr]) 
+ 
+ 
+ 
+The data has been saved using numpy.savetxt

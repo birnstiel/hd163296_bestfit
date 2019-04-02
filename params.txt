@@ -1,0 +1,57 @@
+ 
+
+ 
+Parameters used in the fitting of the  parametric model of the radial profile of the dust for the HD163296 systen, by Isella et al, 2016. 
+
+A linear grid from 1 to 500 AU has been used.  Snapshot taken at t = 4.67 Myr.  Other Parametes used:
+
+
+alpha = 1e-3
+
+Mstar = 2.3* M_sun
+
+Vfrag = 2e3 cm/s
+
+
+Temperature profile:
+
+
+T = 24 * (r/100AU ) ^-0.6
+
+
+Initial surface density :
+
+gamma = 0.2
+
+rc = 100 AU
+
+M_gas/Mstar = 0.004
+
+
+Planet params:
+
+Mp1 = 1 M_jup
+
+Rp1 = 56 AU
+
+Mp2 =  1_M_jup
+
+Rp2 = 83 AU
+
+Mp3 = 0.9 M_jup
+
+Rp3 = 125 AU
+
+
+delay time (from respect to the most inner planet)
+
+tp2 =  2.2 Myr
+
+tp3 = 1.75 Myr
+
+
+
+Convolution using FWHM of 0.22''
+
+
+
